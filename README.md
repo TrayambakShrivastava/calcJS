@@ -1,4 +1,4 @@
-#Calculator Project
+Calculator Project
 
 This project implements a simple calculator using HTML, CSS, and JavaScript.
 
